@@ -1,7 +1,7 @@
 package com.jerry.gulimall.product.service;
 
 import com.baomidou.mybatisplus.extension.service.IService;
-import com.jerry.gulimall.com.jerry.gulimall.common.utils.PageUtils;
+import com.jerry.gulimall.common.utils.PageUtils;
 import com.jerry.gulimall.product.entity.SkuSaleAttrValueEntity;
 
 import java.util.Map;

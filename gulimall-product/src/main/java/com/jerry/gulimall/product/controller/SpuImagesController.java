@@ -12,8 +12,8 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.jerry.gulimall.product.entity.SpuImagesEntity;
 import com.jerry.gulimall.product.service.SpuImagesService;
-import com.jerry.gulimall.com.jerry.gulimall.common.utils.PageUtils;
-import com.jerry.gulimall.com.jerry.gulimall.common.utils.R;
+import com.jerry.gulimall.common.utils.PageUtils;
+import com.jerry.gulimall.common.utils.R;
 
 
 

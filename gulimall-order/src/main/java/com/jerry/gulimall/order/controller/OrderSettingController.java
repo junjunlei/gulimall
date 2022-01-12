@@ -12,8 +12,8 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.jerry.gulimall.order.entity.OrderSettingEntity;
 import com.jerry.gulimall.order.service.OrderSettingService;
-import com.jerry.gulimall.com.jerry.gulimall.common.utils.PageUtils;
-import com.jerry.gulimall.com.jerry.gulimall.common.utils.R;
+import com.jerry.gulimall.common.utils.PageUtils;
+import com.jerry.gulimall.common.utils.R;
 
 
 

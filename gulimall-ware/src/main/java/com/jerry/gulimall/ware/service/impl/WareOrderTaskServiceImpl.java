@@ -1,16 +1,16 @@
 package com.jerry.gulimall.ware.service.impl;
 
-import org.springframework.stereotype.Service;
-import java.util.Map;
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
 import com.baomidou.mybatisplus.core.metadata.IPage;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
-import com.jerry.gulimall.com.jerry.gulimall.common.utils.PageUtils;
-import com.jerry.gulimall.com.jerry.gulimall.common.utils.Query;
-
+import com.jerry.gulimall.common.utils.PageUtils;
+import com.jerry.gulimall.common.utils.Query;
 import com.jerry.gulimall.ware.dao.WareOrderTaskDao;
 import com.jerry.gulimall.ware.entity.WareOrderTaskEntity;
 import com.jerry.gulimall.ware.service.WareOrderTaskService;
+import org.springframework.stereotype.Service;
+
+import java.util.Map;
 
 
 @Service("wareOrderTaskService")

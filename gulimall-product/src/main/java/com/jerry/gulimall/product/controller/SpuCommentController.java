@@ -12,8 +12,8 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.jerry.gulimall.product.entity.SpuCommentEntity;
 import com.jerry.gulimall.product.service.SpuCommentService;
-import com.jerry.gulimall.com.jerry.gulimall.common.utils.PageUtils;
-import com.jerry.gulimall.com.jerry.gulimall.common.utils.R;
+import com.jerry.gulimall.common.utils.PageUtils;
+import com.jerry.gulimall.common.utils.R;
 
 
 
